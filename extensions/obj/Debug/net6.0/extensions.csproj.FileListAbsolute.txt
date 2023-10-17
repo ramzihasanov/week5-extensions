@@ -1,0 +1,15 @@
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\bin\Debug\net6.0\extensions.exe
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\bin\Debug\net6.0\extensions.deps.json
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\bin\Debug\net6.0\extensions.runtimeconfig.json
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\bin\Debug\net6.0\extensions.dll
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\bin\Debug\net6.0\extensions.pdb
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.csproj.AssemblyReference.cache
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.AssemblyInfoInputs.cache
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.AssemblyInfo.cs
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.csproj.CoreCompileInputs.cache
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.dll
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\refint\extensions.dll
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.pdb
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\extensions.genruntimeconfig.cache
+C:\Users\hesen\OneDrive\İş masası\extensions\extensions\obj\Debug\net6.0\ref\extensions.dll
